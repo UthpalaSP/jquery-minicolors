@@ -8,6 +8,14 @@ Licensed under the MIT license: http://opensource.org/licenses/MIT
 
 http://labs.abeautifulsite.net/jquery-minicolors/
 
+## Integrate it in your application by:
+
+1. Include jquery.minicolors.min.js and jquery.minicolors.css in your HTML.
+2. Make sure you have instantiated the plugin as in the documentation.
+3. On the page you have the color picker, add the javascript code to manipulate `demo` class so that the elements is displayed properly.
+(Index.html line:66)
+4. Add the relevant HTML snippet of the element you wish to include. Suggested to refer the Index.html file for the most accurate tag.
+
 ## Install via NPM
 
 This is the official NPM version of MiniColors:
